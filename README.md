@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/993459/208936368-2d27ea03-5666-4d1a-a944-16274a216b69.png)
 
-Time Vault @Dec 21, 2022 Mastodon Is Hurtling Toward a Tipping Point [link](https://www.wired.com/story/mastodon-legal-issues-tipping-point/_
+Time Vault @Dec 21, 2022 Mastodon Is Hurtling Toward a Tipping Point [link](https://www.wired.com/story/mastodon-legal-issues-tipping-point/_)
 
 Mastodon - Infrastructure as Code
 
