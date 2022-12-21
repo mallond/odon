@@ -15,3 +15,47 @@ All Digital Ocean Terraform Articles [link](https://www.digitalocean.com/communi
 How To use Terraform with Digital Ocean [link](https://www.digitalocean.com/community/tutorials/how-to-use-terraform-with-digitalocean)
 
 How To Structure a Terraform Project [link](https://www.digitalocean.com/community/tutorials/how-to-structure-a-terraform-project)
+
+Simple
+```
+.
+└── tf/
+    ├── versions.tf
+    ├── variables.tf
+    ├── provider.tf
+    ├── droplets.tf
+    ├── dns.tf
+    ├── data-sources.tf
+    └── external/
+        └── name-generator.py
+```
+Complex
+```
+.
+└── tf/
+    ├── modules/
+    │   ├── network/
+    │   │   ├── main.tf
+    │   │   ├── dns.tf
+    │   │   ├── outputs.tf
+    │   │   └── variables.tf
+    │   └── spaces/
+    │       ├── main.tf
+    │       ├── outputs.tf
+    │       └── variables.tf
+    └── applications/
+        ├── backend-app/
+        │   ├── env/
+        │   │   ├── dev.tfvars
+        │   │   ├── staging.tfvars
+        │   │   ├── qa.tfvars
+        │   │   └── production.tfvars
+        │   └── main.tf
+        └── frontend-app/
+            ├── env/
+            │   ├── dev.tfvars
+            │   ├── staging.tfvars
+            │   ├── qa.tfvars
+            │   └── production.tfvars
+            └── main.tf
+```
