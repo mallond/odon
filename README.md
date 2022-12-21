@@ -7,4 +7,6 @@ Mastodon - Infrastructure as Code
 
 ## The Journey 
 
+All Digital Ocean Terraform Articles [link](https://www.digitalocean.com/community/tutorial_series/how-to-manage-infrastructure-with-terraform)
+
 How to use Terraform with Digital Ocean [link](https://www.digitalocean.com/community/tutorials/how-to-use-terraform-with-digitalocean)
