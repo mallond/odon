@@ -4,6 +4,9 @@
 
 Mastodon - Infrastructure as Code
 
+## Git Actions
+build-all.yml  
+destroy-all.yml
 
 ## The Journey 
 
