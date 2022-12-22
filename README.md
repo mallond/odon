@@ -7,7 +7,7 @@ Goto the Source! Join Mastodon [link](https://joinmastodon.org/)
 ![image](https://user-images.githubusercontent.com/993459/209058009-cfa2b346-9ba5-42da-b427-d9abfc6d5cb4.png)
 
 
-Time Vault @Dec 21, 2022 Mastodon Is Hurtling Toward a Tipping Point [link](https://www.wired.com/story/mastodon-legal-issues-tipping-point/)
+Time Vault @Dec 21, 2022 Mastodon Is Hurtling Toward a Tipping Point [link](https://www.wired.com/story/mastodon-legal-issues-tipping-point/)  
 Time Vault @Dec 22, 2022 Mastodon Twitter Engineeer is all in [link](https://thenewstack.io/why-a-twitter-founding-engineer-is-now-all-in-on-mastodon/)
 
 Mastodon - Infrastructure as Code
