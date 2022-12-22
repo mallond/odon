@@ -18,6 +18,8 @@ How To use Terraform with Digital Ocean [link](https://www.digitalocean.com/comm
 
 How To Structure a Terraform Project [link](https://www.digitalocean.com/community/tutorials/how-to-structure-a-terraform-project)
 
+Digital Ocean Market Place - Mastodon [link](https://marketplace.digitalocean.com/apps/mastodon)
+
 Simple
 ```
 .
