@@ -18,6 +18,8 @@ destroy-all.yml
 
 ## The Journey 
 
+Ansible Vault [link](https://docs.ansible.com/ansible/latest/cli/ansible-vault.html)
+
 All Digital Ocean Terraform Articles [link](https://www.digitalocean.com/community/tutorial_series/how-to-manage-infrastructure-with-terraform)
 
 How To use Terraform with Digital Ocean [link](https://www.digitalocean.com/community/tutorials/how-to-use-terraform-with-digitalocean)
