@@ -4,6 +4,9 @@ Goto the Source! Join Mastodon [link](https://joinmastodon.org/)
 
 ![image](https://user-images.githubusercontent.com/993459/208936368-2d27ea03-5666-4d1a-a944-16274a216b69.png)
 
+![image](https://user-images.githubusercontent.com/993459/209058009-cfa2b346-9ba5-42da-b427-d9abfc6d5cb4.png)
+
+
 Time Vault @Dec 21, 2022 Mastodon Is Hurtling Toward a Tipping Point [link](https://www.wired.com/story/mastodon-legal-issues-tipping-point/)
 
 Mastodon - Infrastructure as Code
