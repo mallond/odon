@@ -37,6 +37,10 @@ terraform destroy -var "do_token=${DO_PAT}"   -var "pvt_key=${pvt_key}"
 
 How To Structure a Terraform Project [link](https://www.digitalocean.com/community/tutorials/how-to-structure-a-terraform-project)
 
+resource 
+state 
+workspace 
+modules 
 
 Simple
 ```
