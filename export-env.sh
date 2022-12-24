@@ -3,6 +3,9 @@
 # This is a code-space project n
 export TF_LOG=1
 export pvt_key=$HOME/.ssh/id_rsa
+export DO_PRIVATE_KEY=$HOME/.ssh/id_rsa
+export DO_DOMAIN_NAME="sipodon.com"
+
 
 
 

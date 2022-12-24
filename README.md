@@ -35,8 +35,20 @@ terraform destroy -var "do_token=${DO_PAT}"   -var "pvt_key=${pvt_key}"
 
 ```
 
-How To Structure a Terraform Project [link](https://www.digitalocean.com/community/tutorials/how-to-structure-a-terraform-project)
+How To Structure a Terraform Project [link](httpterraform show | grep "ipv4"s://www.digitalocean.com/community/tutorials/how-to-structure-a-terraform-project)
 
+```
+cd terraform/structure-example
+source ../../export-env-encrypt.sh
+source ../../export-env.sh
+terraform plan -var "do_token=${DO_PAT}" -var "domain_name=${DO_DOMAIN_NAME}" -var "private_key=${DO_PRIVATE_KEY}"
+terraform apply -var "do_token=${DO_PAT}" -var "domain_name=${DO_DOMAIN_NAME}" -var "private_key=${DO_PRIVATE_KEY}"
+
+terraform show | grep "ipv4"
+sudo apt install dnsutils
+nslookup -type=a sipodon.com | grep "Address" | tail -1
+
+```
 resource 
 state 
 workspace 
