@@ -13,6 +13,11 @@ Time Vault @Dec 22, 2022 Mastodon Twitter Engineeer is all in [link](https://the
 Mastodon - Infrastructure as Code
 
 
+## The Jorney - Production Mini-Runner
+
+Docker Compose [link](https://github.com/mastodon/mastodon/blob/main/docker-compose.yml)  
+
+
 ## The Journey - Non production Lab
 
 Digital Ocean Registry [link](https://registry.terraform.io/providers/digitalocean/digitalocean/latest/docs)
