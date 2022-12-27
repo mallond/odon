@@ -12,11 +12,10 @@ Time Vault @Dec 22, 2022 Mastodon Twitter Engineeer is all in [link](https://the
 
 Mastodon - Infrastructure as Code
 
-## Git Actions
-build-all.yml  
-destroy-all.yml
 
-## The Journey 
+## The Journey - Non production Lab
+
+Digital Ocean Registry [link](https://registry.terraform.io/providers/digitalocean/digitalocean/latest/docs)
 
 Ansible Vault [link](https://docs.ansible.com/ansible/latest/cli/ansible-vault.html)
 
@@ -66,36 +65,6 @@ Simple
     ├── data-sources.tf
     └── external/
         └── name-generator.py
-```
-Complex
-```
-.
-└── tf/
-    ├── modules/
-    │   ├── network/
-    │   │   ├── main.tf
-    │   │   ├── dns.tf
-    │   │   ├── outputs.tf
-    │   │   └── variables.tf
-    │   └── spaces/
-    │       ├── main.tf
-    │       ├── outputs.tf
-    │       └── variables.tf
-    └── applications/
-        ├── backend-app/
-        │   ├── env/
-        │   │   ├── dev.tfvars
-        │   │   ├── staging.tfvars
-        │   │   ├── qa.tfvars
-        │   │   └── production.tfvars
-        │   └── main.tf
-        └── frontend-app/
-            ├── env/
-            │   ├── dev.tfvars
-            │   ├── staging.tfvars
-            │   ├── qa.tfvars
-            │   └── production.tfvars
-            └── main.tf
 ```
 
 Digital Ocean Terraform Provider [link](https://registry.terraform.io/providers/digitalocean/digitalocean/latest/docs)

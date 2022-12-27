@@ -1,1 +1,1 @@
-export DO_PAT="123"
+export DO_PAT="n+"
