@@ -1,4 +1,5 @@
 # Fediverse - odon
+---
 
 Goto the Source! Join Mastodon [link](https://joinmastodon.org/)
 
@@ -11,6 +12,16 @@ Time Vault @Dec 21, 2022 Mastodon Is Hurtling Toward a Tipping Point [link](http
 Time Vault @Dec 22, 2022 Mastodon Twitter Engineeer is all in [link](https://thenewstack.io/why-a-twitter-founding-engineer-is-now-all-in-on-mastodon/)
 
 Mastodon - Infrastructure as Code
+
+# Terragrunt
+---
+Root Level Admin Account ./  51167
+- terragrunt-README.md
+- terragrunt-region.hcl
+- terragrunt-hcl
+- ./w3point0.com Application Level Account 71304
+
+
 
 
 ## The Jorney - Production Mini-Runner
